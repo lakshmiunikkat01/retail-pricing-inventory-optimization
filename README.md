@@ -72,12 +72,12 @@ Sum over (Price_ik − Holding_i − Ordering_i) × z_ik
 ## How to Run
 
 1.Clone the repository:
-
-```bash
 git clone <your-repo-link>
 cd retail-pricing-inventory-optimization
+
 2.Install dependencies:
 pip install -r requirements.txt
+
 3.Run:
 python main.py
 
